@@ -1,5 +1,9 @@
 # Artificial neural network based chemical mechanisms for computationally efficient modeling of hydrogen/carbon monoxide/kerosene combustion
 
+## Общие слова
+
+В общих словах весь датасет кластеризуется на N на областей и на основе каждой из N областей (новых мини-датасетах) обучется N моделей.
+
 ## Цель работы
 В этом исследовании авторы стремятся сконструировать
 встроенный механизм сверхзвукового турбулентного горения и
